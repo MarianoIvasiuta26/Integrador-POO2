@@ -30,6 +30,7 @@ El desarrollo de este sistema tratará de organizar el manejo de los turnos, el 
 
 ---
 
+
 ## **Requisitos**
 ### Requisitos Funcionales
 * El sistema deberá permitir el registro, consulta y eliminación de pacientes
