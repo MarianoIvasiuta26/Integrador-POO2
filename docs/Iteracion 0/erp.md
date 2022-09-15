@@ -55,9 +55,10 @@ Enumeren los requisitos *(funcionales)* que debe tener el software para resolver
 
 ¿Será esta una aplicación web / de escritorio / móvil *(todas o algún otro tipo)*? ¿Se ajustaría a la arquitectura de software Cliente-Servidor? ¿Qué lenguajes de programación, frameworks, bases de datos,... se utilizarán para desarrollar e implementar el software?
 
+El proyecto presentado se trata de una aplicación web, la cuál se ajusta a la arquitectura cliente-servidor.
 La aplicacion sera desarrollada con el lenguaje de programacion Java
-* Framework: ?
-* FrontEnd: ?
-* BackEnd: ?
+* Base de Datos: MySQL.
+* FrontEnd: HTML, CSS, Bootstrap, JavaScript/React.
+* BackEnd: Java/Spring.
 
 
