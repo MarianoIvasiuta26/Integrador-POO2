@@ -40,9 +40,9 @@ El desarrollo de este sistema tratará de organizar el manejo de los turnos, el 
 * El sistema permitirá la solicitud de turnos para una consulta.
 * El sistema permitirá manejar los turnos de los pacientes registrados y asignar turnos.
 * El sistema permitirá realizar el almacenamiento de la información clínica de los pacientes
-* El	El sistema permitirá realizar cobros a los pacientes
-*	El sistema permitirá generar informes de salud.
-*	El sistema se podrá realizar anotaciones durante las consultas
+* El sistema permitirá realizar cobros a los pacientes
+* El sistema permitirá generar informes de salud.
+* El sistema se podrá realizar anotaciones durante las consultas
 
 ---
 ## **Arquitectura de software**
