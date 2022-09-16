@@ -21,9 +21,10 @@ La informacion es almacenada de manera escrita y las tareas realizadas por el ps
 
 ## **Clientes potenciales**
 Los usuarios que se veran afectados por el desarrollo del software son:
-* El psicologo
-* El secretario
-* Los pacientes
+* El psicologo: asignar turnos, agregar datos de las sesiones, almacenar información clínica de los pacientes y registrar pacientes.
+* El secretario: administrar los turnos para pacientes registrados, consultar y eliminar pacientes del sistema. 
+* Los pacientes: solicitar turnos, efectuar pago. 
+Para solicitar una consulta sin registro previo, el paciente deberá completar un fomrulario rellenando su datos personales, que son: nombre y apellido completo, número de celular, email y el tipo de consulta que necesita. La medida de seguridad tomada a la hora de recibir un turno, es usar un captcha para comprobar que se trata de una persona real la que solicita la consulta. 
 ---
 ## **Solución propuesta**
 La solucion propuesta es el desarrollo de un sistema que tratará de organizar el manejo de los turnos, realizar el seguimiento de los pacientes, mejorar la seguridad de la información, aumentar la confiabilidad a los pacientes y la eficacia en el almacenamiento de información. Todo esto hará efecto en los pacientes, entregándoles un servicio más rápido y organizado, como así también ayudará al psicólogo y secretarios a realizar sus tareas de manera más eficiente.

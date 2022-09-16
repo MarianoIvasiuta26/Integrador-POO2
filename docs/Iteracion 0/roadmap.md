@@ -57,7 +57,7 @@
 ---
 
 * **Id**: h8
-* **Título**: consultar y eliminar clientes
+* **Título**: consultar y eliminar pacientes
 * **Prioridad**: debe tener
 * **Tiempo estimado**: 14 días
 * **Historia de usuario**: como secretario del consultorio quiero consultar y dar de baja a pacientes del sistema para mantener organizados y actualizados los pacientes del consultorio
