@@ -23,10 +23,10 @@ La informacion es almacenada de manera escrita y las tareas realizadas por el ps
 Los usuarios que se veran afectados por el desarrollo del software son:
 * El psicologo
 * El secretario
-* Los Pacientes
+* Los pacientes
 ---
 ## **Solución propuesta**
-El desarrollo de este sistema tratará de organizar el manejo de los turnos, el seguimiento de los pacientes, mejorar la seguridad de la información, la confiabilidad a los pacientes, la eficacia en el almacenamiento de información y la desprolijidad. Todo esto hará efecto en los pacientes, entregándoles un servicio más rápido y organizado, como así también ayudará al psicólogo y sectretarios a realizar sus tareas de manera más eficiente.
+La solucion propuesta es el desarrollo de un sistema que tratará de organizar el manejo de los turnos, realizar el seguimiento de los pacientes, mejorar la seguridad de la información, aumentar la confiabilidad a los pacientes y la eficacia en el almacenamiento de información. Todo esto hará efecto en los pacientes, entregándoles un servicio más rápido y organizado, como así también ayudará al psicólogo y secretarios a realizar sus tareas de manera más eficiente.
 
 ---
 
@@ -46,7 +46,7 @@ El desarrollo de este sistema tratará de organizar el manejo de los turnos, el 
 El proyecto presentado se trata de una aplicación web, la cuál se ajusta a la arquitectura cliente-servidor.
 La aplicacion sera desarrollada con el lenguaje de programacion Java
 * Base de Datos: PostgreSQL
-* FrontEnd: HTML, CSS, Bootstrap, JavaScript/React.
+* FrontEnd: HTML, CSS, Bootstrap, JavaScript.
 * BackEnd: Java/Spring.
 
 
