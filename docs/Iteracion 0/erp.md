@@ -34,13 +34,15 @@ La solucion propuesta es el desarrollo de un sistema que tratará de organizar e
 
 ## **Requisitos**
 ### Requisitos Funcionales
-* El sistema deberá permitir el registro, consulta y eliminación de pacientes
+* El sistema deberá permitir la consulta y eliminación de pacientes
 * El sistema permitirá la solicitud de turnos para una consulta.
 * El sistema permitirá manejar los turnos de los pacientes registrados y asignar turnos.
 * El sistema permitirá realizar el almacenamiento de la información clínica de los pacientes
 * El sistema permitirá realizar cobros a los pacientes
 * El sistema permitirá generar informes de salud.
-* El sistema se podrá realizar anotaciones durante las consultas
+* El sistema se podrá realizar anotaciones durante las consultas 
+* El sistema permitirá el registro de usuarios
+* EL sistema permitirá al paciente consultar sus turnos asignados
 
 ---
 ## **Arquitectura de software**
