@@ -17,10 +17,10 @@
 ---
 
 * **Id**: h3
-* **Título**: registro de paciente
+* **Título**: Inicio de sesión
 * **Prioridad**: debe tener
 * **Tiempo estimado**: 7 días
-* **Historia de usuario**: Como psicologo del consultorio quiero dar de alta un paciente en el sistema para tener un registro de los pacientes del consultorio en el sistema
+* **Historia de usuario**: como usuario del sistema quiero iniciar sesión en el sistema para tener una cuenta en el sistema que me permita iniciar sesión cada vez que necesite utilizar las funcionalidades del sistema
 
 ---
 
@@ -64,9 +64,17 @@
 
 ---
 
+* **Id**: h9
+* **Título**: Consultar turnos asignados
+* **Prioridad**: debe tener
+* **Tiempo estimado**: 7 días
+* **Historia de usuario**: como paciente del consultorio quiero consultar mis turnos asignados para tener una mejor organización de mis turnos asignados 
+
+---
+
 # Historias de usuarios opcionales o a implementar a futuro
 
-* **Id**: h9
+* **Id**: h10
 * **Título**: pagar consulta
 * **Prioridad**: opcional
 * **Tiempo estimado**: 14 días
@@ -76,19 +84,19 @@
 
 # Backlog de iteración
 ## Iteracion 1
+* **Como**: Usuario del sistema
+* **Quiero**: Iniciar sesión en el sistema
+* **Para**: tener una cuenta en el sistema que me permita iniciar sesión cada vez que necesite utilizar las funcionalidades del sistema
+---
 * **Como**: Paciente del consultorio
 * **Quiero**: solicitar un turno para una consulta
 * **Para**: recibir atención del psicologo
----
-* **Como**: Psicologo del consultorio
-* **Quiero**: asignar los turnos de un paciente en el sistema
-* **Para**: conocer las fechas de consultas de cada paciente
 
 ---
 ## Iteracion 2
 * **Como**: Psicologo del consultorio
-* **Quiero**: dar de alta un paciente en el sistema
-* **Para**: tener un registro de los pacientes del consultorio en el sistema
+* **Quiero**: asignar los turnos de un paciente en el sistema
+* **Para**: conocer las fechas de consultas de cada paciente
 ---
 * **Como**: Secretario del consultorio
 * **Quiero**: administrar los turnos de un paciente registrado en el sistema
@@ -115,4 +123,7 @@
 * **Como**: Secretario del consultorio
 * **Quiero**: consultar y dar de baja a pacientes del sistema
 * **Para**: mantener organizados y actualizados los pacientes del consultorio
-
+---
+* **Como**: paciente del consultorio 
+* **Quiero**: consultar mis turnos asignados
+* **Para**: tener una mejor organización de mis turnos asignados 
