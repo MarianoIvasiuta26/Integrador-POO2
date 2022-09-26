@@ -36,10 +36,10 @@ Los Encargados de realizar las historias de usuario:
 * Si el usuario ingresa algun dato no valido, se mostrará un mensaje de que vuelva a ingresar los datos.
 
 ### Pasos para completar la historia de usuario:
-* Creacion del wireframe
-* Creacion de Vistas
-* Realizacion de casos de uso
-* Creacion del modelo de datos
+* Creación del wireframe
+* Creación de Vistas
+* Realización de casos de uso
+* Creación del modelo de datos
 * ...
 
 
@@ -51,5 +51,11 @@ Los Encargados de realizar las historias de usuario:
 * Si los datos ingresados son válidos, el sistema enviará la solicitud.
 * Si el usuario ingresa algun dato no valido, se mostrará un mensaje de que vuelva a ingresar los datos.
 
+### Pasos para completar la historia de usuario:
+* Creación del wireframe
+* Creación de Vistas
+* Realización de casos de uso
+* Creación del modelo de datos
+* ...
 
 # Retrospectiva
