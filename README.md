@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 Colman Lucas- lukasscolman@gmail.com
 
-Ivasiuta Mariano- 
+Ivasiuta Mariano- ivasiuta.mariano@gmail.com
 
 Martinez Alejandro-
 
