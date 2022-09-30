@@ -54,10 +54,10 @@ Los Encargados de realizar las historias de usuario:
 ### Pasos para completar la historia de usuario:
 * Diseño del wireframe
 * Descripcion del caso de uso
-* Creación del modelo de datos
-* Creación de las vistas.
-* Validaciones de los campos
-* Agregación de funcionalidades
+* Creación del modelo de datos/base de datos
+* Desarrollo de interfaz de usuario
+* Desarrollo del backend
+* Implementación
 
 ## Historia de usuario 2
 * Como paciente del consultorio 
@@ -70,9 +70,10 @@ Los Encargados de realizar las historias de usuario:
 
 ### Pasos para completar la historia de usuario:
 * Diseño del wireframe
-* Descripción del caso de uso
-* Creación del modelo de datos
-* Creación de las vistas
-* Agregación de funcionalidades
+* Descripcion del caso de uso
+* Creación del modelo de datos/base de datos
+* Desarrollo de interfaz de usuario
+* Desarrollo del backend
+* Implementación
 
 # Retrospectiva

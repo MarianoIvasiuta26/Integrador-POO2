@@ -12,10 +12,6 @@
   </a>
 
   <h3 align="center">Consultorio Psicologico web</h3>
-
-  <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -49,13 +45,13 @@ En un consultorio, se brinda atención psicológica a pacientes que previamente 
 La solucion propuesta es el desarrollo de un sistema que tratará de organizar el manejo de los turnos, realizar el seguimiento de los pacientes, mejorar la seguridad de la información, aumentar la confiabilidad a los pacientes y la eficacia en el almacenamiento de información. Todo esto hará efecto en los pacientes, entregándoles un servicio más rápido y organizado, como así también ayudará al psicólogo y secretarios a realizar sus tareas de manera más eficiente
 
 ### Built With
-* [![React][React.js]](https://reactjs.org/) 
-* [![Angular][Angular.io]](https://angular.io/)
+* [![JAVA][Java.com]](Hibernate-url)
 * [![Bootstrap][Bootstrap.com]](https://getbootstrap.com)
 * [![PostgreSQL][postgresql.org]](https://www.postgresql.org/)
 * [![JavaScript][JavaScript.com]](https://www.javascript.com/)
 * [![SpringBoot][Spring.io]](https://spring.io/projects/spring-boot)
-
+* [![Html][Html]]()
+* [![Css][Css]]()
 
 
 
@@ -64,30 +60,29 @@ La solucion propuesta es el desarrollo de un sistema que tratará de organizar e
 ## Getting Started
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+It is necessary to have installed on our machine:
+* Java Development Kit (JDK). 
+* Visual Studio Code
+* Java extension pack
+* Spring boot extension pack
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/LucasColman/Integrador-POO2.git
    ```
-3. Install NPM packages
+2. Install Maven
    ```sh
-   npm install
+   mvn install
    ```
-4. Enter your API in `config.js`
+3. Run application
    ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+   mvn spring-boot:run
 
+4. Open your browser and type in the search bar
+   ```js
+    localhost:8080
+   ```   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
@@ -143,9 +138,9 @@ Colman Lucas- lukasscolman@gmail.com
 
 Ivasiuta Mariano- ivasiuta.mariano@gmail.com
 
-Martinez Alejandro-
+Martinez Alejandro- martinezalejandouni10@gmail.com
 
-Anton Belen-
+Anton Belen- belenantonok@gmail.com
 
 
 Project Link: [https://github.com/LucasColman/Integrador-POO2](https://github.com/LucasColman/Integrador-POO2)
@@ -162,3 +157,9 @@ Project Link: [https://github.com/LucasColman/Integrador-POO2](https://github.co
 [postgresql.org]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [Spring.io]: https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
+[Java-url]: https://www.java.com/es/
+[Java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+
+[Html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+[Css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
