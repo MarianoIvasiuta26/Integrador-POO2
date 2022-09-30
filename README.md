@@ -45,7 +45,11 @@ En un consultorio, se brinda atención psicológica a pacientes que previamente 
 La solucion propuesta es el desarrollo de un sistema que tratará de organizar el manejo de los turnos, realizar el seguimiento de los pacientes, mejorar la seguridad de la información, aumentar la confiabilidad a los pacientes y la eficacia en el almacenamiento de información. Todo esto hará efecto en los pacientes, entregándoles un servicio más rápido y organizado, como así también ayudará al psicólogo y secretarios a realizar sus tareas de manera más eficiente
 
 ### Built With
+<<<<<<< HEAD
 * [![JAVA][Java.com]](Hibernate-url)
+=======
+* [![Angular][Angular.io]](https://angular.io/)
+>>>>>>> 562df1cedbf35fcdfacb393853d6dc269e06702b
 * [![Bootstrap][Bootstrap.com]](https://getbootstrap.com)
 * [![PostgreSQL][postgresql.org]](https://www.postgresql.org/)
 * [![JavaScript][JavaScript.com]](https://www.javascript.com/)
@@ -151,7 +155,6 @@ Project Link: [https://github.com/LucasColman/Integrador-POO2](https://github.co
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [postgresql.org]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white

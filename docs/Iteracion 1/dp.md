@@ -7,9 +7,24 @@ Los Encargados de realizar las historias de usuario:
 
 
 # Diseño OO
+![Diseño OO](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/Dise%C3%B1oOOIt1.PNG)
 
 # Wireframe y caso de uso
 ## Wireframe: Inicio de Sesión
+
+### Caso de uso
+* El usuario ingresa a la pagina web del consultorio  a través de un navegador
+* Se le presenta al usuario la pagina de inicio de la página web del consultorio
+* El usuario cliquea la opción “iniciar sesión”
+* El usuario cliquea la caja de texto donde se le solicita el nombre de usuario 
+* El usuario escribe su nombre de usuario 
+* El usuario cliquea la caja de texto donde se le solicita que ingrese la contraseña 
+* El usuario escribe su contraseña
+* El usuario cliquea el casillero de reCaptcha
+* Se imprime por pantalla un cuadro de imagen donde se le solicita que seleccione los sitios donde es posible visualizar el semáforo 
+* El usuario selecciona los cuadros donde se encuentra el semáforo 
+* El usuario cliquea el botón “iniciar sesión”
+* El sistema inicia la sesión en la cuenta del usuario
 
 ## Wireframe: Solicitar Turno
 ![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/SolicitarTurno1.PNG)
