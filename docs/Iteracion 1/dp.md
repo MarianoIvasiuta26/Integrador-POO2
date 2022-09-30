@@ -7,6 +7,7 @@ Los Encargados de realizar las historias de usuario:
 
 
 # Diseño OO
+![Diseño OO](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/Dise%C3%B1oOOIt1.PNG)
 
 # Wireframe y caso de uso
 ## Wireframe: Inicio de Sesión
