@@ -12,17 +12,18 @@ Los Encargados de realizar las historias de usuario:
 ## Wireframe: Inicio de Sesión
 
 ## Wireframe: Solicitar Turno
-![Pantalla Solicitar Turno](/docs/images/wireframe_SolicitarTurno1.png)
-![Pantalla Solicitar Turno2](/docs/images/wireframe_SolicitarTurno2.png)
-![Pantalla Solicitar Turno4](/docs/images/wireframe_SolicitarTurno3.png)
+![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/SolicitarTurno1.PNG)
+![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/SolicitarTurno2.PNG)
+![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/SolicitarTurno3.PNG)
+
 
 ### Caso de uso
-* El paciente registrado, presiona el boton de solicitar consulta en la pagina de inicio.
+* El paciente registrado, presiona el boton de solicitar consulta en la barra de navegacion de la pagina principal.
 * Se le presenta al paciente la pantalla de solicitud de turnos
 * El paciente ingresará el motivo de consulta u algun otro mensaje en el cuadro de texto.
-* El paciente seleccionará una fecha disponible en el calendario presentado.
+* El paciente seleccionará una fecha disponible en el calendario presentado. Si la fecha esta reservada no se  permitirá la seleccion.
 * El paciente presiona el boton, "Solicitar Turno".
-* Se muestra un cuadro de alerta, indicando que presione aceptar para enviar la solicitud.
+* Se muestra un cuadro de alerta, indicando que presione aceptar para enviar la solicitud. Si presiona cancelar se cierra el cuadro y no se enviará la solicitud.
 * Se muestra una alerta de exito, indicando que se envio la solicitud del turno.
 
 
@@ -31,7 +32,7 @@ Los Encargados de realizar las historias de usuario:
 * **Título**: Inicio de sesión
 * **Prioridad**: debe tener
 * **Tiempo estimado**: 7 días
-* **Historia de usuario**: como usuario del sistema quiero iniciar sesión en el sistema para tener una cuenta que me permita iniciar sesión cada vez que necesite utilizar las funcionalidades del sistema
+* **Historia de usuario**: como usuario del sistema quiero iniciar sesión en el sistema para poder utilizar las funcionalidades del sistema
 ---
 * **Id**: h1
 * **Título**: solicitar turno
@@ -54,18 +55,18 @@ Los Encargados de realizar las historias de usuario:
 * Diseño del wireframe
 * Descripcion del caso de uso
 * Creación del modelo de datos
-* Creación de datos de vistas.
+* Creación de las vistas.
 * Validaciones de los campos
 * Agregación de funcionalidades
 
 ## Historia de usuario 2
 * Como paciente del consultorio 
 * Quiero solicitar un turno para una consulta 
-* Para  recibir atención del psicologo
+* Para recibir atención del psicologo
 ### Criterios de aceptacion:
 * Si los datos ingresados son válidos, el sistema enviará la solicitud.
 * Si el usuario ingresa algun dato no valido, se mostrará un mensaje de que vuelva a ingresar los datos.
-* Si la fecha seleccionada esta disponible, se enviará el turno.
+* Si la fecha seleccionada esta disponible se enviará el turno, caso contrario no se permitirá la seleccion del turno.
 
 ### Pasos para completar la historia de usuario:
 * Diseño del wireframe
