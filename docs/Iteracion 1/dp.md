@@ -9,26 +9,41 @@ Los Encargados de realizar las historias de usuario:
 # Diseño OO
 
 # Wireframe y caso de uso
+## Wireframe: Inicio de Sesión
+
+## Wireframe: Solicitar Turno
+![Pantalla Solicitar Turno](/docs/images/wireframe_SolicitarTurno1.png)
+![Pantalla Solicitar Turno2](/docs/images/wireframe_SolicitarTurno2.png)
+![Pantalla Solicitar Turno4](/docs/images/wireframe_SolicitarTurno3.png)
+
+### Caso de uso
+* El paciente registrado, presiona el boton de solicitar consulta en la pagina de inicio.
+* Se le presenta al paciente la pantalla de solicitud de turnos
+* El paciente ingresará el motivo de consulta u algun otro mensaje en el cuadro de texto.
+* El paciente seleccionará una fecha disponible en el calendario presentado.
+* El paciente presiona el boton, "Solicitar Turno".
+* Se muestra un cuadro de alerta, indicando que presione aceptar para enviar la solicitud.
+* Se muestra una alerta de exito, indicando que se envio la solicitud del turno.
+
 
 # Backlog de iteraciones
 * **Id**: h3
 * **Título**: Inicio de sesión
 * **Prioridad**: debe tener
 * **Tiempo estimado**: 7 días
-* **Historia de usuario**: como usuario del sistema quiero iniciar sesión en el sistema para tener una cuenta en el sistema que me permita iniciar sesión cada vez que necesite utilizar las funcionalidades del sistema
+* **Historia de usuario**: como usuario del sistema quiero iniciar sesión en el sistema para tener una cuenta que me permita iniciar sesión cada vez que necesite utilizar las funcionalidades del sistema
 ---
 * **Id**: h1
 * **Título**: solicitar turno
 * **Prioridad**: Debe tener
 * **Tiempo estimado**: 7 días
-* **Historia de usuario**: Como paciente del consultorio quiero solicitar un turno para una consulta para recibir atención del psicologo
-
+* **Historia de usuario**: Como paciente del consultorio quiero solicitar un turno para recibir atención del psicologo
 
 # Tareas
 ## Historia de usuario 1
 * Como usuario del sistema
 * Quiero iniciar sesión en el sistema
-* Para tener una cuenta en el sistema que me permita iniciar sesión cada vez que necesite utilizar las funcionalidades del sistema
+* Para poder utilizar las funcionalidades del sistema
 
 ### Criterios de aceptacion:
 * Si los datos ingresados son válidos, el sistema accederá a la cuenta del usuario correspondiente.
@@ -36,12 +51,12 @@ Los Encargados de realizar las historias de usuario:
 * Si el usuario ingresa algun dato no valido, se mostrará un mensaje de que vuelva a ingresar los datos.
 
 ### Pasos para completar la historia de usuario:
-* Creación del wireframe
-* Creación de Vistas
-* Realización de casos de uso
+* Diseño del wireframe
+* Descripcion del caso de uso
 * Creación del modelo de datos
-* ...
-
+* Creación de datos de vistas.
+* Validaciones de los campos
+* Agregación de funcionalidades
 
 ## Historia de usuario 2
 * Como paciente del consultorio 
@@ -50,12 +65,13 @@ Los Encargados de realizar las historias de usuario:
 ### Criterios de aceptacion:
 * Si los datos ingresados son válidos, el sistema enviará la solicitud.
 * Si el usuario ingresa algun dato no valido, se mostrará un mensaje de que vuelva a ingresar los datos.
+* Si la fecha seleccionada esta disponible, se enviará el turno.
 
 ### Pasos para completar la historia de usuario:
-* Creación del wireframe
-* Creación de Vistas
-* Realización de casos de uso
+* Diseño del wireframe
+* Descripción del caso de uso
 * Creación del modelo de datos
-* ...
+* Creación de las vistas
+* Agregación de funcionalidades
 
 # Retrospectiva

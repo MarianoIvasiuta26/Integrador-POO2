@@ -116,7 +116,7 @@
 ## Iteracion 4
 * **Como**: Psicologo del consultorio
 * **Quiero**: generar informes de salud
-* **Para**: diagnoticar a los pacientes que recibieron su consulta
+* **Para**: diagnosticar a los pacientes que recibieron su consulta
 
 ---
 ## Iteracion 5
