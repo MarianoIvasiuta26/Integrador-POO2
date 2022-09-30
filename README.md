@@ -45,11 +45,7 @@ En un consultorio, se brinda atención psicológica a pacientes que previamente 
 La solucion propuesta es el desarrollo de un sistema que tratará de organizar el manejo de los turnos, realizar el seguimiento de los pacientes, mejorar la seguridad de la información, aumentar la confiabilidad a los pacientes y la eficacia en el almacenamiento de información. Todo esto hará efecto en los pacientes, entregándoles un servicio más rápido y organizado, como así también ayudará al psicólogo y secretarios a realizar sus tareas de manera más eficiente
 
 ### Built With
-<<<<<<< HEAD
 * [![JAVA][Java.com]](Hibernate-url)
-=======
-* [![Angular][Angular.io]](https://angular.io/)
->>>>>>> 562df1cedbf35fcdfacb393853d6dc269e06702b
 * [![Bootstrap][Bootstrap.com]](https://getbootstrap.com)
 * [![PostgreSQL][postgresql.org]](https://www.postgresql.org/)
 * [![JavaScript][JavaScript.com]](https://www.javascript.com/)
