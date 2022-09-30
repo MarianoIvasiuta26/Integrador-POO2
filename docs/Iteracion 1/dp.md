@@ -15,27 +15,27 @@ Los Encargados de realizar las historias de usuario:
 ### Caso de uso
 * El usuario ingresa a la pagina web del consultorio  a través de un navegador
 * Se le presenta al usuario la pagina de inicio de la página web del consultorio
-* El usuario cliquea la opción “iniciar sesión”
-* El usuario cliquea la caja de texto donde se le solicita el nombre de usuario 
+* El usuario selecciona la opción “iniciar sesión”
+* El usuario selecciona la caja de texto donde se le solicita el nombre de usuario 
 * El usuario escribe su nombre de usuario 
-* El usuario cliquea la caja de texto donde se le solicita que ingrese la contraseña 
+* El usuario selecciona la caja de texto donde se le solicita que ingrese la contraseña 
 * El usuario escribe su contraseña
-* El usuario cliquea el casillero de reCaptcha
+* El usuario selecciona el casillero de reCaptcha
 * Se imprime por pantalla un cuadro de imagen donde se le solicita que seleccione los sitios donde es posible visualizar el semáforo 
 * El usuario selecciona los cuadros donde se encuentra el semáforo 
-* El usuario cliquea el botón “iniciar sesión”
+* El usuario selecciona el botón “iniciar sesión”
 * El sistema inicia la sesión en la cuenta del usuario
 
 ## Wireframe: Solicitar Turno
-![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/SolicitarTurno1.PNG)
-![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/SolicitarTurno2.PNG)
-![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/SolicitarTurno3.PNG)
+![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/wireframe_SolicitarTurno1.PNG)
+![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/wireframe_SolicitarTurno2.PNG)
+![Wireframe Solicitar Turno](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/wireframe_SolicitarTurno3.PNG)
 
 
 ### Caso de uso
-* El paciente registrado, presiona el boton de solicitar consulta en la barra de navegacion de la pagina principal.
+* El paciente registrado, presiona el boton de solicitar turno en la barra de navegacion de la pagina principal.
 * Se le presenta al paciente la pantalla de solicitud de turnos
-* El paciente ingresará el motivo de consulta u algun otro mensaje en el cuadro de texto.
+* El paciente ingresará el motivo de consulta o algun otro mensaje en el cuadro de texto.
 * El paciente seleccionará una fecha disponible en el calendario presentado. Si la fecha esta reservada no se  permitirá la seleccion.
 * El paciente presiona el boton, "Solicitar Turno".
 * Se muestra un cuadro de alerta, indicando que presione aceptar para enviar la solicitud. Si presiona cancelar se cierra el cuadro y no se enviará la solicitud.
