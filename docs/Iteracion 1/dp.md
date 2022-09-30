@@ -11,6 +11,7 @@ Los Encargados de realizar las historias de usuario:
 
 # Wireframe y caso de uso
 ## Wireframe: Inicio de Sesión
+![Wireframe Inicio de Sesion](https://github.com/LucasColman/Integrador-POO2/blob/master/docs/images/wireframe_InicioSesion.png)
 
 ### Caso de uso
 * El usuario ingresa a la pagina web del consultorio  a través de un navegador
