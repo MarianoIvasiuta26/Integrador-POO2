@@ -103,5 +103,5 @@ Sin embargo, en esta iteración, no se pudo lograr el desarrollo e implementaci�
 * Desarrollo de interfaz de usuario.
 * Desarrollo del BackEnd.
 * Desarrollo de la base de datos necesaria.
-* Implementación de las historias de usuario que se busca desarrollar en esta iteración. 
+* Implementación de las historias de usuario que se busca desarrollar en esta iteración.  
 El motivo de esto, es que a los distintos miembros del equipo nos surgió una serie de eventualidades, desde problemas de salud como problemas técnicos, las cuáles impidieron la realización de estas tareas.
