@@ -93,3 +93,15 @@ Los Encargados de realizar las historias de usuario:
 * Implementación
 
 # Retrospectiva
+Durante la iteración 1, el equipo pudo completar las siguientes tareas:
+* Documentación necesaria para una tener un correcto seguimiento del proyecto. Donde se realiza una descripción completa y detallada de las historias de usuario que se busca implementar en la iteración 1.
+* Diseño OO. El cuál nos permite comprender las clases que se necesiten para el desarrollo del proyecto.
+* Elaboración de wireframes, que nos permite presentar un prototipo del sistema a desarrollar.
+* Creación de proyecto para definir las tareas que deben realizar durante las iteraciones y saber que tarea tiene asignado cada miembro del equipo.
+
+Sin embargo, en esta iteración, no se pudo lograr el desarrollo e implementación del proyecto. Es decir, no se pudo lograr lo siguiente:
+* Desarrollo de interfaz de usuario.
+* Desarrollo del BackEnd.
+* Desarrollo de la base de datos necesaria.
+* Implementación de las historias de usuario que se busca desarrollar en esta iteración. 
+El motivo de esto, es que a los distintos miembros del equipo nos surgió una serie de eventualidades, desde problemas de salud como problemas técnicos, las cuáles impidieron la realización de estas tareas.
